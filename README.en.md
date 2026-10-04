@@ -1,4 +1,4 @@
-<p align="center">[中文](README.md) · **English**</p>
+<p align="center"><a href="README.md">中文</a> &nbsp; · &nbsp; <strong>English</strong></p>
 
 <h1 align="center">Worry Laundry</h1>
 <p align="center">A tiny shop that accepts worries instead of coins</p>

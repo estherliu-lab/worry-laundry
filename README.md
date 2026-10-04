@@ -1,4 +1,4 @@
-<p align="center">**中文** · [English](README.en.md)</p>
+<p align="center"><strong>中文</strong> &nbsp; · &nbsp; <a href="README.en.md">English</a></p>
 
 <h1 align="center">烦恼洗衣店</h1>
 <p align="center">不收钱，只收一小团烦恼</p>
